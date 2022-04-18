@@ -1,7 +1,7 @@
 ---
 title: "Becoming a Data Scientist"
-subtitle: "STT2860 S22 Project 02"
-author: "Author: YOUR NAME HERE"
+subtitle: "STT2860 S22 Project 01"
+author: "Author: Jordan Loflin"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -12,38 +12,38 @@ output:
 
 **Q1: What is the name of the person interviewed?**
 
-ANSWER:
+ANSWER: David Meza
 
 **Q2: Why did you choose the particular interview you did?**
 
-ANSWER:
+ANSWER: I chose this person because he works at NASA and I believe that would be a very interesting and fulfilling career.
 
 **Q3: Does the person consider themselves a data scientist?**
 
-ANSWER:
+ANSWER: He would describe himself as a hybrid or quasi data scientist. Entails a lot of other things besides data science, maybe operational data scientist where he applies it to his work at certain points.
 
 **Q4: What is their formal and self-taught education in data science?**
 
-ANSWER:
+ANSWER: He began in engineering graduated from Houston with Management Information System. While working at a nonprofit started working with databases. Began working at NASA as an IT technical assistant then became database developer then IT manager, worked at NASA and in 2010 got his masters in engingeering management, and continuing his education through a doctorate in teaching stem.
 
 **Q5: What has been their career path? Did they start off in data science?**
 
-ANSWER:
+ANSWER: He did not start off in data science. He began in engineering. He became interested in computer programming so switched his degree to Management Informaion systems. Began working in finance as a stoke broker for 8 years. Went to non profit as chief operating officer trying to increase the budget then began the data science career path. Would be project manager and project leads. Looked at how to develop knowledge, translating terms between different departments, and transforming data into knowledge. Use different algoriithms to be able to take information and make it useful for users. He is currently the Chief Knowledge Architect at NASA.
 
 **Q6: What programs/technologies to they use when working in data science?**
 
-ANSWER:
+ANSWER: In his career he said he has used access reports, excel, and Rstudio. Also mentioned graph data bases of  neo4j, IHS coalfire and others.
 
 **Q7: What is one interesting (to you) data science problem they have worked on?**
 
-ANSWER:
+ANSWER: One interesting problem was making a graph database that made it easier for engineers to search certain things. This used the Lessons learned database, took the lessons and metadata, put it into R and grouped it into 27 topics and different categories. They were then put it into a graph database. Then made it able to jump from one topic from another correlated topic so that engineers could look at lessons the engineers may have missed. 
 
 **Q8: Are there any specific pieces of advice they gave that inspire/resonate with you?**
 
-ANSWER:
+ANSWER: How important it is to work together as a team for accurate information and the same perspective. This can not only make a huge impact in work life but also in everyday life as well. Communication is key.
 
 **Q9: Was there anything that surprised you or that you particularly identified with?**
 
-ANSWER:
+ANSWER: I identified with the concept of being a "Life-long learner" and improving education over time. Although he is close to retirement, he is continuing to develop his education. It is also surprising that there is not a specific role for being essentially a translator between fields. 
 
 ***
